@@ -37,7 +37,7 @@ body {
 
 .button-adjust {
     width: 30%;
-    margin: 0% 40%;
+    margin: 0% 45%;
 }
 
 .adjust {
@@ -99,6 +99,8 @@ body {
 .flexible-container {
     display: flex;
     margin-bottom: 100px;
+    width: 84%;
+    padding: 0% 8%;
 }
 
 .donation-list {
@@ -179,13 +181,16 @@ footer {
 }
 
 .about-us {
-    width: 100%;
+    width: 80%;
+    padding: 0% 10%;
 }
 
 .work {
     width: 50%;
     padding-left: 3%;
     padding-right: 3%;
+    padding-top: 5%;
+
 }
 
 .work img {
