@@ -1,0 +1,196 @@
+body {
+    font-family: 'Nanum Gothic',
+        sans-serif;
+}
+
+.head {
+    background-image: url(images/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    image-resolution: 100%;
+    padding: 10% 5%;
+}
+
+.start {
+    font-size: 50px;
+    color: white;
+    text-align: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    margin: 5px;
+}
+
+#details {
+    color: white;
+    text-align: center;
+    font-size: 10px;
+    padding-bottom: 1%;
+}
+
+.button {
+    text-decoration: none;
+    background-color: lightcoral;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+    margin: 0% 45%;
+}
+
+.donate {
+    text-align: center;
+    padding: 10% 20%;
+}
+
+.value {
+    background-color: antiquewhite;
+    height: 70px;
+    width: 100px;
+    text-align: center;
+    margin: 5px;
+}
+
+.value-diff {
+    background-color: rgb(237, 230, 230);
+    height: 70px;
+    width: 100px;
+    text-align: center;
+    color: rgb(225, 160, 160);
+    margin: 5px;
+    border-style: solid;
+    border-color: rgb(226, 143, 143);
+}
+
+.amount {
+    display: flex;
+    margin: 0% 25%;
+    padding-bottom: 20px;
+}
+
+.get {
+    display: inline;
+    padding: 50%;
+}
+
+.other {
+    color: cadetblue;
+}
+
+.line_input {
+    background-color: transparent;
+    color: #0b0404;
+    outline: none;
+    outline-style: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: solid #3a3737 1px;
+    padding: 0px 160px;
+}
+
+.flexible-container {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+.donation-list {
+    margin-left: 1%;
+    margin-right: 1%;
+    border-radius: 2px;
+    padding: 10px 10px;
+}
+
+.name {
+    color: gray;
+}
+
+#first {
+    background-color: rgb(164, 233, 233);
+}
+
+#second {
+    background-color: rgb(235, 212, 170);
+}
+
+#third {
+    background-color: pink;
+}
+
+.planning {
+    padding: 0% 5%;
+}
+
+#help {
+    padding: 0% 30%;
+    text-align: center;
+}
+
+.plan {
+    text-align: center;
+}
+
+#foot {
+    text-align: center;
+    color: orange;
+    padding-top: 2%;
+    font-family: 'Dancing Script', cursive;
+}
+
+#foot-two {
+    text-align: center;
+    color: white;
+    padding-bottom: 2%;
+}
+
+footer {
+    background-color: rgb(67, 101, 169);
+}
+
+.join {
+    background-color: bisque;
+    padding: 5% 5%;
+    margin: 0% 20%;
+}
+
+.email {
+    background-color: #8880803f;
+    border: none;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.sub {
+    text-decoration: none;
+    background-color: lightcoral;
+    padding: 5px 35px;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+
+.about-us {
+    width: 100%;
+}
+
+.work {
+    width: 50%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
+
+.work img {
+    width: 100%;
+}
+
+.know-us {
+    text-decoration: none;
+    background-color: rgb(123, 180, 211);
+    padding: 5px 35px;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+}
+
+#more {
+    color: rgba(234, 183, 90, 0.555);
+}
