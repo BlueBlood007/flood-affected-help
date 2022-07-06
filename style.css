@@ -34,6 +34,10 @@ body {
     border-radius: 5px;
     color: aliceblue;
     text-align: center;
+}
+
+.adjust {
+    width: 20%;
     margin: 0% 45%;
 }
 
@@ -149,7 +153,7 @@ footer {
 .join {
     background-color: bisque;
     padding: 5% 5%;
-    margin: 0% 20%;
+    margin: 0% 20% 0% 20%;
 }
 
 .email {
@@ -157,6 +161,7 @@ footer {
     border: none;
     border-radius: 2px;
     padding: 5px;
+    margin-left: 30%;
 }
 
 .sub {
@@ -166,6 +171,7 @@ footer {
     border-radius: 5px;
     color: aliceblue;
     text-align: center;
+    margin-right: 30%;
 }
 
 .about-us {
